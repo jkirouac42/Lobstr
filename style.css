@@ -1,13 +1,18 @@
 ﻿.jumbotron{
-    background-image:url("lobster_muted.jpg");
+    background-image:url('boats-at-anchor edit.jpg');
     background-size:cover;
     background-position:center center;
 }
+
+body{
+    padding:50px;
+}
+
 .feature{
     text-align:center
 }
 .feature .glyphicon{
-    font-size:400%
+    font-size:300%
 }
   
 .feature .glyphicon-apple{
@@ -18,4 +23,21 @@
 }
 .feature .glyphicon-camera{
     color:#165ad3
+}
+
+#getMoney{
+    font-size:200%;
+    font-style:italic;
+}
+
+h3{
+    font-style:italic;
+}
+
+.input-group{
+    font-size:400%;
+}
+main{
+    background-color:#eaeaea;
+   
 }
